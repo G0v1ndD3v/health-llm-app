@@ -1,0 +1,5 @@
+# Streamlit secrets (API keys)  
+.streamlit/secrets.toml  
+
+# Firebase credentials  
+firebase_config.json  
